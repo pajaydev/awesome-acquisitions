@@ -1,4 +1,5 @@
 # Awesome Acquisitions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> A curated list of awesome acquisitions happened.
 
 ### 2020
 - [GitHub nabs JavaScript packaging vendor npm](https://techcrunch.com/2020/03/16/github-nabs-javascript-packaging-vendor-npm/)
@@ -19,6 +20,7 @@
 ### 2014
 - [Facebook Closes $19 Billion WhatsApp Deal](https://www.forbes.com/sites/parmyolson/2014/10/06/facebook-closes-19-billion-whatsapp-deal/#424b6c8b5c66)
 - [Amazon Buys Twitch For $970 Million In Cash](https://www.businessinsider.com/amazon-buys-twitch-2014-8)
+- [Google to Buy Nest Labs for $3.2 Billion](https://www.wsj.com/articles/google-to-buy-nest-labs-for-32-billion-1389648107)
 
 ### 2013
 - [Google Bought Waze For $1.1B](https://techcrunch.com/2013/06/11/its-official-google-buys-waze-giving-a-social-data-boost-to-its-location-and-mapping-business/)
@@ -32,9 +34,13 @@
 ### 2009
 - [Disney to buy Marvel for $4 billion](https://money.cnn.com/2009/08/31/news/companies/disney_marvel/)
 - [Amazon Buys Zappos](https://techcrunch.com/2009/07/22/amazon-buys-zappos/)
+- [Oracle buys Sun Microsystems](https://www.zdnet.com/article/oracle-buys-sun-now-owns-java-becomes-a-hardware-player/)
 
 ### 2006
 - [Google Has Acquired YouTube](https://techcrunch.com/2006/10/09/google-has-acquired-youtube/)
+
+### 2000
+- [Pfizer Gets Its Deal to Buy Warner-Lambert for $90.2 Billion](https://www.nytimes.com/2000/02/08/business/pfizer-gets-its-deal-to-buy-warner-lambert-for-90.2-billion.html)
 
 ## License
 
